@@ -715,5 +715,5 @@ footer > .container {
 }
 
 .is-hidden .modal {
-  transform: translatey(-50%);
+  transform: translatey(50%);
 }
